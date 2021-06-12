@@ -1,0 +1,33 @@
+body {
+    /* border: 10px solid lightblue; */
+    margin: 0;
+}
+.container {
+    display: flex;
+    /* flex: 25%;
+    flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+    height: 36rem;
+}
+.self {
+    align-self: 
+}
+.footer {
+    display: flex;
+    height:11rem;
+    background-color: lightcoral;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.footer>div {
+    width: 100rem;
+    text-align: center;
+}
+
+.footer a {
+    padding: 0px 10px;
+}
+.footer a:hover {
+    padding: 0px 13px;
+}
