@@ -10,9 +10,6 @@ body {
     align-items: center;
     height: 36rem;
 }
-.self {
-    align-self: 
-}
 .footer {
     display: flex;
     height:11rem;
