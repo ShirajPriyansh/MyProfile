@@ -66,6 +66,5 @@ li a {
     .nav ul {
         flex-flow: column;
         align-items: center;
-
     }
 }
