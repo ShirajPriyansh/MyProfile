@@ -42,6 +42,7 @@ li a {
     letter-spacing: 5px;
     word-spacing: 5px;
     text-transform: uppercase;
+    margin-right: -5px; /* to end the letter-spacing from last letter */
 }
 .footer {
     /* display: flex;
