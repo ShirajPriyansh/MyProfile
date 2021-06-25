@@ -21,22 +21,24 @@ li a {
     display: block;
     color: black;
     /* background-color: darkblue; */
-    padding: 10px 20px;
+    padding: 1vh 1.04vh;
     font-size: 1.1rem;
     font-family: 'Raleway', sans-serif;
-
+    
 }
 .section {
     display: flex;
     /* background-color: rgba(211, 211, 211, 0.5); */
     background-color: rgb(240, 239, 239);
-    height:20rem;
+    /* height:20rem; */
+    height: 44.8vh;
     justify-content: center;
     align-items: flex-end;
     /* letter-spacing: 5px;
     word-spacing: 5px;
     text-transform: uppercase; */
     text-align: center;
+    
 }
 .section-font {
     letter-spacing: 5px;
@@ -55,8 +57,10 @@ li a {
     justify-content: space-between;
     align-items: center;
     flex-flow:column;
-    height: 24rem;
+    /* height: 24rem; */
+    height: 51vh;
     color: white;
+
 }
 /* .container {
     display:flex;
