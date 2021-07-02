@@ -70,4 +70,7 @@ li a {
         flex-flow: column;
         align-items: center;
     }
+    body {
+        overflow:auto;
+    }
 }
